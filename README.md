@@ -26,6 +26,6 @@ Python Random Module [Here](https://www.w3schools.com/python/module_random.asp)
 
 [For Loops](https://www.youtube.com/watch?v=P9sIg93Boso&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=18)
 
-[While Loops] (https://www.youtube.com/watch?v=J8dkgM8Mck0&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=19)
+[While Loops](https://www.youtube.com/watch?v=J8dkgM8Mck0&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=19)
 
  
